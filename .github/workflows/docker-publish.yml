@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: DOCKER_USERNAME/devops_project:latest
+          tags: essyad/devops_project:latest
